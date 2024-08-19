@@ -20,19 +20,23 @@ nav_order: 3
 ## Course Descriptions and Enrollment
 
 ### CS 195
+
+#### Enrollment
+* [Course Catalog](https://classes.berkeley.edu/content/2024-fall-compsci-195-001-lec-001)
+* If you are looking to enroll in this course but do not meet
+EECS department enrollment categories, please make a private post on Ed.
+
+#### Description
 CS 195 is a discussion-intensive course about the social implications of
 computer technology. The purpose of this course is to help students make
 informed and thoughtful choices about their careers, participation in society,
 and future development activities. Readings and lecture topics are drawn from a
 range of fields that together seek to describe our contemporary global society:
 sociology, philosophy, economics, public policy, etc.
-* [Course Catalog](https://classes.berkeley.edu/content/2024-fall-compsci-195-001-lec-001)
-* If you are looking to enroll in this course but do not meet
-EECS department enrollment categories, please make a private post on Ed.
 
 ### CS H195
 
-#### How to Join
+#### Enrollment
 If interested, please fill out the interest form listed on the
 [Course Catalog](https://classes.berkeley.edu/content/2024-fall-compsci-h195-001-lec-001).
 **Course applications for H195 are due {{site.h195_apps_due}}.**
