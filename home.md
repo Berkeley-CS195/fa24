@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /
 seo:
   type: Course
-  name: CS 195
+  name: Home
 ---
 
 # CS 195/H195: Social Implications of Computer Technology

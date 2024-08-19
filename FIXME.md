@@ -1,4 +1,12 @@
-- See "Table of contents" text on Syllabus
-- Fix links in syllabus.md
-- URL in _config.yml
-- add gradescope_course_id, bcourses_course_id, ed_course_id
+- Syllabus
+  - See "Table of contents" text on Syllabus
+  - Fix links in syllabus.md
+  - "All of these would receive full points for the first two. " this true?
+  - "The [H195 Calendar](discussion) has the discussion schedule and syllabus." fix once page set
+    - fix link
+- _config.yml
+  - URL for site
+  - add gradescope_course_id, bcourses_course_id, ed_course_id 
+  - set canvas link
+  - discussion time + room
+  - h195_apps_due

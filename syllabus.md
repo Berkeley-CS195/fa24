@@ -44,7 +44,7 @@ If interested, please fill out the interest form listed on the
 
 #### Description
 
-The [discussion page](discussion) has the discussion schedule and syllabus.
+The [H195 Calendar]() has the discussion schedule and syllabus.
 
 CS H195 discussions complement and supplement the topics presented in CS 195
 lecture series. Students are expected to engage at a deeper level with the
@@ -68,7 +68,7 @@ The best (and fastest) way to contact the staff is through the
 free to drop by or schedule a meeting for our office hours. More information
 about the office hours is available in the left navigation panel.
 
-If you need to contact the course staff for personal reasons, you can contact us at {{ site.course_email }}
+If you need to contact the course staff for personal reasons, you can contact us at {{ site.course_email }} .
 
 ## Course Components and Grading
 
@@ -105,9 +105,23 @@ There will be periodic surveys throughout the semester, announced during class a
 
 ## Readings / QQCR
 
+### Readings
 Readings for each week will be released the Friday before each next class (or thereabouts). **Please finish the readings before class!**
 
-**QQCR, or Question, Quote, Comment, and Reply**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion. (Updated 8/30 to reduce workload.)
+Readings can be categorized into the following categories:
+* **Required**: You must read this reading regardless of whether or not you post about it. Making a QQCR about one of these readings does count for credit.
+* **Recommended**: You are not required to read this reading, but if you do you will get credit for writing a QQCR about it.
+* **Optional**: You are not required to read this reading, and we will not provide QQCR credit for writing a QQCR on it. You will just get brownie points with us :). 
+
+<!-- #### Required
+You must read this reading regardless of whether or not you post about it. Making a QQCR about one of these readings does count for credit.
+#### Recommended
+You are not required to read this reading, but if you do you will get credit for writing a QQCR about it.
+#### Optional
+You are not required to read this reading, and we will not provide QQCR credit for writing a QQCR on it. You will just get brownie points with us :). -->
+
+### QQCRs
+A QQCR, or a <i>Question, Quote, Comment, and Reply</i> is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
 
 To complete a QQCR,
 * Post a question, quote, comment, or reply on the associated Ed megapost for a reading.
@@ -119,16 +133,17 @@ To complete a QQCR,
 * See below for grading and community guidelines.
 
 To receive full credit for each set of lecture readings, you must do two things:
-* (1) You must make <del>four</del> **two** of a Question, Quote, Comment, Reply on the associated Ed megapost(s) for the required or recommended readings.
+* (1) You must make **two** of a Question, Quote, Comment, Reply on the associated Ed megapost(s) for the required or recommended readings.
 * (2) You must **also** make a Reply on someone else's thread on one of the associated Ed megapost(s) for one of the required or recommended readings
-* Restated, you must make <del>five</del> **three** QQCRs *total* on *any* of the required/recommended readings, where one of your QQCRs needs to be a reply.
+* Restated, you must make **three** QQCRs *total* on *any* of the required/recommended readings, where one of your QQCRs needs to be a reply.
 * (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended" for that week. QQCRs made for "Extra" or "Optional" readings do not count for course credit. For example:
-    * A QQCR could consist of a mix of <del>three</del> two Questions on one required reading, and <del>two Replies</del> one Reply on a different recommended reading.
-    * Or, a QQCR could consist of <del>five</del> three Replies on the same recommended reading. These Replies can be in the same thread.
-* See [this Ed post](https://edstem.org/us/courses/43672/discussion/3361878){:target="\_blank"} for clarifications.
+    * A QQCR could consist of a mix of two Questions on one required reading, and one Reply on a different recommended reading.
+    * Or, a QQCR could consist of three Replies on the same recommended reading. These Replies can be in the same thread.
+* See [in-depth QQCR instructions](#appendix){:target="\_blank"} in the appendix for clarifications.
 
-<b>QQCR Grading</b>:
+### QQCR Grading
   * Again, the main goal of this assignment is to give you a chance to reflect on readings and contribute to discussion. We expect there to be a range of opinions in this classroom. As a result, **one-word posts will not receive credit.** Most other posts will. 
+  * We reserve the right to give you a zero on a QQCR, or remove your grade for it if we deem your post to be egregiously low-effort. We will inform you and likely allow you to redo this QQCR if this occurs.
   * You *should* post in the **Ed megapost** that course staff create for each reading.
   * You *should not* make private or separate public Ed posts. Doing so will not earn credit. Early on, we might make an effort to merge your posts to the respective Ed megapost, but ultimately you are responsible for moving your posts to the megapost. 
   * "Heart"s on other student posts are encouraged but unfortunately do not count for credit (we have no way of tracking hearts).
@@ -138,22 +153,23 @@ We'll do our best to release grades for the first set of QQCRs early, so that yo
 
 ### Community guidelines
 
-Our classroom environment extends to online spaces like Ed. Be civil and respect others, even those that are not in this course. There are 3 ways for you to address hateful comments and prevent harassment, in order of decreasing emotional labor (the last two do not count towards QQCR):
-- Reply on Ed directly to post.
-- Submit an anonymous report form to course staff: [https://forms.gle/bBmqFwRpk3wxdoXn7](https://forms.gle/bBmqFwRpk3wxdoXn7){:target="\_blank"}.
+Our classroom environment extends to online spaces like Ed. Be civil and respect others, even those that are not in this course. There are 4 ways for you to address hateful comments and prevent harassment, in order of decreasing emotional labor:
+- Reply on Ed directly to post. (This counts toward your QQCR count)
+- Email cs195@berkeley.edu
+- Submit an anonymous report form to course staff: [report form to be added](){:target="\_blank"}.
 - Reply on Ed with “That’s not cool."
 
 Course staff reserve the right to delete and/or not award credit or dismiss students from seminar for remarks that promote hate speech, trolling, harrassment, discrimination, or defamation. Serious offenders will be reported directly to both the CS Department Grievances faculty member ([link](https://eecs.berkeley.edu/resources/students/grievances){:target="\_blank"}) and the University [Center for Student Conduct](https://conduct.berkeley.edu/){:target="\_blank"}.
 
 ## Podcasts
 
-**Update 9/28** In lieu of the typical essays for this course, this semester you will submit two podcasts of varying format in relation to issues discussed in class. Please see the [home page](../) for more details.
+In lieu of essays, you will submit two podcasts of varying format in relation to issues discussed in class. Please see the [home page](../) for more details.
 
 Podcasts are peer reviewed, which means you will review **two podcasts** per peer review window, and have each of your podcasts reviewed by two of your peers.
 
-There will be no essays this semester; furthermore we expect the podcasts to actually take up less time than formulating your thoughts on paper. Please do contact us if this is not the case.
+We expect the podcasts to take up less time than formulating your thoughts on paper. Please do contact us if this is not the case.
 
-## Accommodations and Late Policy
+## Accommodations, Regrades, and Late Policy
 
 We understand that situations come up during the semester.
 While we will make an effort to contact students about missing work throughout the semester, *it is ultimately your responsibility to follow up with us to request additional accommodations as needed*.
@@ -178,13 +194,50 @@ accommodation. We will review each extension request on an individual basis.
 
 **DSP**: If you have a DSP-approved accommodation, we will contact you by the end of Week 2 with this semester's DSP policies. Requesting assignment extensions according to your letter will involve you making a private post on Ed *prior* to the assignment deadline.
 
-If you need an extension or regrade request, please fill out this semester's [Extension/Regrade Request form](https://docs.google.com/forms/d/e/1FAIpQLSeDIBx-Q4-jtYq0FERjOmlDAfmdAn9k47kQlF7-iRQebcwzJw/viewform).
+If you need an extension or regrade request, please fill out this semester's [Extension/Regrade Request form {to be added}]().
 
 ## Academic Integrity
 
 The student community at UC Berkeley has adopted the following Honor Code: "As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others." The expectation is that you will adhere to this code.
 
-**Plagiarism/Self-plagiarism**: You must be original in composing the writing assignments in this class. To copy text or ideas from another source (including your own previously, or concurrently, submitted course work) without appropriate reference is plagiarism and will result in a failing grade for your assignment and usually further disciplinary action.  Anyone found to have submitted assignments completed by another person (student or non-student) will likewise receive a failing grade in the course and be reported to the Center for Student Conduct. For additional information on plagiarism, self-plagiarism, and how to avoid it, see [this GSI Guide for Preventing Plagiarism](http://gsi.berkeley.edu/teachingguide/misconduct/prevent-plag.html).
+### Plagiarism/Self-plagiarism
+You must be original in composing the writing assignments in this class. To copy text or ideas from another source (including your own previously, or concurrently, submitted course work) without appropriate reference is plagiarism and will result in a failing grade for your assignment and usually further disciplinary action.  Anyone found to have submitted assignments completed by another person (student or non-student) will likewise receive a failing grade in the course and be reported to the Center for Student Conduct. For additional information on plagiarism, self-plagiarism, and how to avoid it, see [this GSI Guide for Preventing Plagiarism](http://gsi.berkeley.edu/teachingguide/misconduct/prevent-plag.html).
+
+
+## Appendix
+
+### In-Depth QQCR Instructions
+
+For the sake of this explanation, assume you are trying to complete QQCRs for a given week, and for this week the readings are:
+1. \[Required\] Reading 1
+2. \[Recommended\] Reading 2
+3. \[Optional\] Reading 3
+Reminder that required and recommended readings operate the same when it comes to completing QQCRs. 
+
+
+#### Example
+For the first two QQCR posts, you are allowed to do a question, quote, comment, or reply on a required OR recommended reading. So here are some examples of valid choices for that:
+
+* One comment on the Reading 1 thread and one quote on the Reading 2 thread.
+* I could instead do two quotes on the Reading 2 thread. 
+* I could instead do one reply on the Reading 1 thread, and one quote on the Reading 2 thread. 
+* I could instead do one question and one comment all on the Reading 2 thread
+
+All of these would receive full points for the first two. 
+
+For the last QQCR, we simply ask that you do at least one reply on a required OR recommended thread. This is an attempt to get you discussing topics with your peers. 
+
+You can think of this like us asking you to do three QQCR posts on any selection of required or recommended threads (with replacement), where at least one is a reply. 
+
+#### Formatting
+
+For formatting, we ask that you separate out each QQCR into a different post. They can all be in the same thread, but each should be posted separately. This serves two purposes. For one it makes grading easier, but more importantly it makes replies easier for your peers since they will only be responding to one thing and the train of thought is more clear. 
+
+We also ask that you put a tag indicating which kind of QQCR each post is. For example if you are making a 'quote' post, please put \[Quote\] in the body of the post. As before, this serves the purpose of making grading easier and making it easier for your peers to scan through the responses to a particular post when deciding where to comment. 
+
+We have a bot that should catch most formatting errors you could make. If you get a 0 on a QQCR and you expect to have gotten a grade on it, feel free to submit a [regrade](#accommodations-regrades-and-late-policy).
+
+
 
 <!--
 **Turnitin**:
