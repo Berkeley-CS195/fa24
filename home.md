@@ -5,10 +5,10 @@ nav_exclude: true
 permalink: /
 seo:
   type: Course
-  name: Berkeley Class Site
+  name: CS 195
 ---
 
-# UC Berkeley Class Site Template
+# CS 195/H195: Social Implications of Computer Technology
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 

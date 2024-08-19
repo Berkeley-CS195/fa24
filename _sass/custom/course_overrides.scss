@@ -1,2 +1,27 @@
 // Put your custom CSS here!
 // You an reference all variables in the Berkeley files
+h1, .h1 {
+    font-weight: bold;
+    font-size: 3.5rem !important;
+  }
+  
+  h2, .h2 {
+    font-weight: bold;
+   font-size: 2.5rem !important; 
+  }
+  
+  h3, .h3 {
+    font-weight: bold;
+    font-size: 2rem !important;
+  }
+  
+h4, .h4 {
+    font-size: 1.5rem !important;
+    font-weight: bold;
+    text-transform: none;
+  }
+
+h1, h2, h3, h4, h5, h6,
+  .serif {
+    font-family: "Calibri", sans-serif;
+  }

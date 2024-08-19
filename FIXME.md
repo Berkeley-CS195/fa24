@@ -1,0 +1,4 @@
+- See "Table of contents" text on Syllabus
+- Fix links in syllabus.md
+- URL in _config.yml
+- add gradescope_course_id, bcourses_course_id, ed_course_id
