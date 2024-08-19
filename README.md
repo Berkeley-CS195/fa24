@@ -1,4 +1,4 @@
-#cs195-fa24
+# cs195-fa24
 
 [![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
 [![a11y specs](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml)
