@@ -17,9 +17,44 @@ nav_order: 3
 
 ---
 
-## About
+## Course Descriptions and Enrollment
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+### CS 195
+CS 195 is a discussion-intensive course about the social implications of
+computer technology. The purpose of this course is to help students make
+informed and thoughtful choices about their careers, participation in society,
+and future development activities. Readings and lecture topics are drawn from a
+range of fields that together seek to describe our contemporary global society:
+sociology, philosophy, economics, public policy, etc.
+* [Course Catalog](https://classes.berkeley.edu/content/2024-fall-compsci-195-001-lec-001)
+* If you are looking to enroll in this course but do not meet
+EECS department enrollment categories, please make a private post on Ed.
+
+### CS H195
+
+#### How to Join
+If interested, please fill out the interest form listed on the
+[Course Catalog](https://classes.berkeley.edu/content/2024-fall-compsci-h195-001-lec-001).
+**Course applications for H195 are due {{site.h195_apps_due}}.**
+
+#### Description
+The [discussion page](discussion) has the discussion schedule and syllabus.
+
+CS H195 discussions complement and supplement the topics presented in CS 195
+lecture series. Students are expected to engage at a deeper level with the
+assigned weekly readings and be prepared to engage in thoughtful and
+constructive discussions around the course material. Where applicable, we will
+invite guest speakers from industry and academia to present their work and to
+participate in discussions alongside students. CS H195 will encourage students
+to go beyond thinking about computer technology as solely an engineering
+problem but instead viewing it holistically from the perspective of social
+sciences, legal studies, policymaking, equity, and inclusion.
+
+#### Expectations
+CS H195 is a 3-unit class with the following expectations:
+* In addition to CS 195 lecture, you attend 90-minute in-person discussion sections led by a GSI, once weekly.
+* You will actively discuss each CS 195 topic in more depth.
+* You will work on interesting projects / papers that replace the usual CS 195 assignments.
 
 ## Lecture
 
