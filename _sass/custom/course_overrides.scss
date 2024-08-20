@@ -30,9 +30,15 @@ h1, h2, h3, h4, h5, h6,
     font-size: 1.5em !important;
 }
 
-// Increase line-spacing for normal text
 a {
-    line-height: 2; /* Increase the line spacing between paragraphs */
+    line-height: 2; /* Increase the line spacing between normal text */
+    // The following is to increase link size
+    // https://stackoverflow.com/questions/11078509/how-to-increase-the-clickable-area-of-a-a-tag-button
+    position: relative;
+    padding: 0.4em; // increase padding
+    z-index: 1;
+    margin: -0.4em;
+    
   }
 
 // Create QQCR Labels
