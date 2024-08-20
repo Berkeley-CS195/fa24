@@ -78,13 +78,15 @@
       dl {
         display: flex;
         flex-direction: column;
+        flex: 1;
+        //justify-content: space-between;
 
         @include mq(sm) {
           flex-direction: row;
         }
 
         dt {
-          flex: 0 0 40.5%;
+          flex: 0.5 0 auto;
           margin: 0;
         }
 

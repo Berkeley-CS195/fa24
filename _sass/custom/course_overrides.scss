@@ -35,3 +35,17 @@ h1, h2, h3, h4, h5, h6,
   //      color: ...;
   //  }
   //}
+
+// Create QQCR Labels
+.label-req:not(g) {
+    background-color: #16adbd;
+  }
+  .label-rec:not(g) {
+    background-color: #5bbc8c;
+  }
+  .label-opt:not(g) {
+    background-color: #51bc4e;
+  }
+  .label-h195:not(g) {
+    background-color: #da71db;
+  }
