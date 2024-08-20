@@ -38,14 +38,14 @@ h1, h2, h3, h4, h5, h6,
 
 // Create QQCR Labels
 .label-req:not(g) {
-    background-color: #16adbd;
+    background-color: #c30081;
   }
   .label-rec:not(g) {
-    background-color: #5bbc8c;
+    background-color: #a300d7;
   }
   .label-opt:not(g) {
-    background-color: #51bc4e;
+    background-color: #9034ec;
   }
   .label-h195:not(g) {
-    background-color: #da71db;
+    background-color: #c30081; // may not be accessible, check color
   }
