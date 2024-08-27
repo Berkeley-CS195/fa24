@@ -8,7 +8,7 @@ seo:
   name: Home
 ---
 
-# CS 195/H195: Social Implications of Computer Technology
+# CS 195/H195: Social Implications of Computer Technology [WEBSITE UNDER CONSTRUCTION]
 
 Welcome to CS 195! See the sidebar for navigation and more course information. Information about enrollment can be found in the syllabus. 
 
