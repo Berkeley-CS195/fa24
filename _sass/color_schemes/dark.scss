@@ -16,7 +16,6 @@ $base-button-color: $grey-dk-250;
 $code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
 $code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%);
-$table-background-color: $grey-dk-250;
 $search-background-color: $grey-dk-250;
 $search-result-preview-color: $grey-dk-000;
 $border-color: $grey-dk-200;
@@ -33,7 +32,8 @@ $search-background-color: $grey-dk-400;
 $body-text-color: $white;
 $body-lighter-color: darken($body-text-color, 20%);
 
-$link-color: #5eb0fe;
+// TODO: This is slightly different from the template.
+$link-color: #5D85FE;
 $hover-focus-link-color: darken($link-color, 10%);
 
 // TODO(template): We need to figure out a much better solution!
@@ -56,3 +56,16 @@ $base-button-color: $grey-dk-200;
 .btn:not(.btn-outline) {
   color: $btn-primary-color !important;
 }
+
+$disc-color: #63BB63;             // green
+$lecture-color: #78AEDD;          // light blue
+$hw-color: #DF7972;               // red
+$project-color: #BF80CB;          // purple
+$office-hours-color: #7BEAF9;     // cyan
+$req-color: #E7115E;              // rose medium
+$exam-color: #FDB515;              // California Gold
+$block-text-color: #0C0A0E;       // black 
+$label-color: $grey-lt-000;       // gray
+$table-background-color: #232323; // off black
+$code-color: #ffe9ec;             // light pink
+$code-bg-color: #796366;          // maroon

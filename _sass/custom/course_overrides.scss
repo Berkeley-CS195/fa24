@@ -1,56 +1,17 @@
 // Put your custom CSS here!
-// You an reference all variables in the Berkeley files
-h1, .h1 {
-    font-weight: bold;
-    font-size: 3.5rem !important;
-  }
-  
-  h2, .h2 {
-    font-weight: bold;
-   font-size: 2.5rem !important; 
-  }
-  
-  h3, .h3 {
-    font-weight: bold;
-    font-size: 2rem !important;
-  }
-  
-h4, .h4 {
-    font-size: 1.5rem !important;
-    font-weight: bold;
-    text-transform: none;
-  }
-
-h1, h2, h3, h4, h5, h6,
-  .serif {
-    font-family: "Calibri", sans-serif;
-  }
-
-.fs-4 {
-    font-size: 1.5em !important;
-}
-
-a {
-    line-height: 2; /* Increase the line spacing between normal text */
-    // The following is to increase link size
-    // https://stackoverflow.com/questions/11078509/how-to-increase-the-clickable-area-of-a-a-tag-button
-    position: relative;
-    padding: 0.4em; // increase padding
-    z-index: 1;
-    margin: -0.4em;
-    
-  }
+// You can reference all variables in the Berkeley files
 
 // Create QQCR Labels
 .label-req:not(g) {
-    background-color: #c30081;
-  }
-  .label-rec:not(g) {
-    background-color: #a300d7;
-  }
-  .label-opt:not(g) {
-    background-color: #9034ec;
-  }
-  .label-h195:not(g) {
-    background-color: #c30081; // may not be accessible, check color
-  }
+    background-color: $req-color;    // dark magenta
+}
+.label-rec:not(g) {
+  background-color: $project-color;      // rose
+}
+.label-opt:not(g) {
+  background-color: $exam-color;      // blue purple?
+  color: $block-text-color;      
+}
+.label-h195:not(g) {
+  background-color: $disc-color;      // also dark magenta // may not be accessible, check color
+}

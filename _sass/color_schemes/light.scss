@@ -7,7 +7,7 @@
 $color-scheme: light !default;
 $body-background-color: $white !default;
 $body-heading-color: $grey-dk-300 !default;
-$body-text-color: $grey-dk-100 !default;
+$body-text-color: #757575 !default;
 $link-color: $purple-000 !default;
 $nav-child-link-color: $grey-dk-100 !default;
 $sidebar-color: $grey-lt-000 !default;
@@ -24,3 +24,17 @@ $search-result-preview-color: $grey-dk-000 !default;
 
 // Minimum lightness on white.
 $body-lighter-color: $grey-dk-100;
+
+// TODO(data101): See if we can move these somehwre...
+$disc-color: #3A833A;             // green
+$lecture-color: #2E74B5;          // light blue
+$hw-color: #D33B36;               // red
+$project-color: #9343A3;          // purple
+$office-hours-color: #088191;     // cyan
+$req-color: #E7115E;              // rose medium
+$exam-color: #002676;              // Berkeley Blue
+$block-text-color: #ffffff;       // white
+$label-color: #717171;            // dark gray
+$table-background-color: #fdfdfd; // off white
+$code-color: #c7254e;             // dark pink
+$code-bg-color: #f9f2f4;          // tan

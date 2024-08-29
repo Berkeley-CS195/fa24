@@ -1,0 +1,18 @@
+.announcement {
+    @extend %card;
+  
+    h1, h2 {
+      @extend .text-gamma;
+    }
+  
+    .announcement-meta {
+      @extend .text-epsilon;
+    }
+
+    .announcement-content {
+      @extend .text-delta;
+    }
+
+    // add padding to top
+    padding: 0.05rem 1rem;
+  }
