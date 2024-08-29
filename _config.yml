@@ -51,6 +51,15 @@ additional_extensions: TBD # Google Form URL
 # TODO(setup): update these as needed.
 course_faq: /faq/
 
+# used on CS 195 syllabus
+term: Fall 2024
+lecture_time: Tuesday 3:30-5:00PM
+lecture_room: Physics Building 1
+discussion_time: 
+discussion_room: 
+
+assignment_time: "11:59pm"
+
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
   # TODO(template): Move this to be built-in.
