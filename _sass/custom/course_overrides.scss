@@ -6,10 +6,11 @@
     background-color: $req-color;    // dark magenta
 }
 .label-rec:not(g) {
-  background-color: $project-color;      // purple
+  background-color: $project-color;      // rose
 }
 .label-opt:not(g) {
-  background-color: $code-bg-color;      // blue purple?
+  background-color: $exam-color;      // blue purple?
+  color: $block-text-color;      
 }
 .label-h195:not(g) {
   background-color: $disc-color;      // also dark magenta // may not be accessible, check color

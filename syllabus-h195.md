@@ -90,4 +90,4 @@ CS 195 lecture attendance and CS195 survey completion will be graded according t
 
 ## Academic Integrity and Community Guidelines
 
-We expect you to adhere to UC Berkeley's Code of Conduct. Please read the [Academic Integrity]({{site.baseurl}}/syllabus/#academic-integrity) and the [Community Guidelines]({{{site.baseurl}}/syllabus/#community-guidelines) sections of the CS 195 Syllabus.
+We expect you to adhere to UC Berkeley's Code of Conduct. Please read the [Academic Integrity]({{site.baseurl}}/syllabus/#academic-integrity) and the [Community Guidelines]({{site.baseurl}}/syllabus/#community-guidelines) sections of the CS 195 Syllabus.
