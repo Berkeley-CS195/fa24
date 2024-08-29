@@ -1,0 +1,79 @@
+@mixin abstract-card() {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
+    margin: $sp-4 (-$gutter-spacing-sm);
+  
+    @include mq(md) {
+      border-radius: $border-radius;
+      margin: $sp-4 0;
+    }
+  }
+  
+  %card {
+    @include abstract-card();
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 0 $sp-4;
+    position: relative;
+    word-wrap: break-word;
+  
+    >:first-child {
+      border-top: none !important;
+    }
+  
+    >:last-child {
+      border-bottom: none !important;
+    }
+  
+    .label {
+      border-radius: 10px;
+      margin-left: 0;
+      user-select: none;
+      background-color: $grey-lt-100;
+      color: $grey-dk-100;
+
+      &.label-hw {
+        background-color: $hw-color;
+        color: $block-text-color;
+      }
+      &.label-disc {
+        background-color: $disc-color;
+        color: $block-text-color;
+      }
+      &.label-exam {
+        background-color: $exam-color;
+        color: $block-text-color;
+      }
+      &.label-survey {
+        background-color: $blue-100;
+        color: $block-text-color;
+      }
+      &.label-project {
+        background-color: $project-color;
+        color: $block-text-color;
+      }
+
+      &.label-req {
+        background-color: $req-color;
+        color: $block-text-color;
+      }
+
+      &.label-lec {
+        background-color: $lecture-color;
+        color: $block-text-color;
+      }
+
+      &.label-hw-due {
+        background-color: transparent;
+        color: $hw-color;
+        box-shadow: inset 0 0 0 2px $hw-color;
+      }
+  
+      &.label-proj-due {
+        background-color: transparent;
+        color: $project-color;
+        box-shadow: inset 0 0 0 2px $project-color;
+      }
+      
+    }
+  }

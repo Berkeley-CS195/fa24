@@ -18,26 +18,28 @@
 title: CS 195
 # TODO:(setup): This should be the extended title of your course. e.g. "Introduction to Data Science"
 tagline: Social Implications of Computer Technology
-description: A course about how technology exists in our world in practice
+description: Social Implications of Computer Technology
 # TODO(template): this should be built from the staff list...
 author: Lisa Yan, Noemi Chulo, Kyle Gibson
 # You should use either light or dark as the theme.
 color_scheme: light
-
+  # # logo
+  # logo: cs195-logo.png # used to populate top-left, ignore
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
 baseurl: '/fa24' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
-url: 'https://fa24.cs195.org' # the hostname & protocol for your site, e.g. http://example.com
+url: 'https://cs195.org' # the hostname & protocol for your site, e.g. http://example.com
 
 # Course variables
 # Course variables can appear in various places around the website, if something isn't used leave it blank.
 # TODO(setup): Set all of these course variables
+# TODO(template): these could be migrated to one big key.
 course: CS 195
 course_email: cs195@berkeley.edu
-gradescope_course_id: 123456 # you can find this in the Gradescope URL after /courses
+gradescope_course_id: 707300 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 123456 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 123456 # Again, same as above.
-sememster: fa24 # set for the current seemester
+semester: fa24 # set for the current seemester
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
 course_department: eecs
@@ -45,19 +47,9 @@ course_department: eecs
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
 class_archive_path: /
-edstem: 
-bcourses: 
-# Leave blank unless hybrid
-ed_zoom_link: 
-term: Fall 2024
-lecture_time: Tuesday 3:30-5:00PM
-lecture_room: Physics Building 1
-discussion_time: 
-discussion_room: 
-
-assignment_time: "11:59pm"
-h195_apps_due: 
-
+additional_extensions: TBD # Google Form URL
+# TODO(setup): update these as needed.
+course_faq: /faq/
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
@@ -69,23 +61,47 @@ aux_links:
   bcourses:
     - ''
 
+# TODO(template): These need to be documented
+# TODO(semester): You may want to review these...
+# berkeley_theme_options:
+#   show_logo_in_sidebar: true
 
 # Collections for website data
 collections:
   staffers:
     sort_by: name
   modules:
+  modules_h195:
   schedules:
+  announcements:
+  calendars:
   announcements:
   labs:
     output: true
     permalink: /:collection/:path/
+  lectures:
+    output: true
+    sort_by: number # Date could work...
+    permalink: /lectures/:path/
   hw:
     output: true
     permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
+
+# nav_external_links:
+#   - title: Course FAQ
+#     url: https://data101.org/fa24faq
+#     hide_icon: true
+
+# The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-jupyter-notebook
 
 # Default layouts for each collection type
 defaults:
@@ -122,9 +138,9 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: schedules
+      type: calendars
     values:
-      layout: schedule
+      layout: calendar
   - scope:
       path: ''
       type: announcements
@@ -135,6 +151,25 @@ defaults:
 # Just the Docs / Berkeley Class Site Common Config
 # Options below here will likely not need to be configured..
 ######################################################################
+# TODO(template): We should clean these up + standardize...
+# TODO(setup): You may want to add additional
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 # TODO(template): CSS compilations. Handle warnings...
 sass:
   style: expanded
@@ -142,13 +177,6 @@ sass:
   sourcemap: always
   quiet_deps: true
   verbose: false
-
-# The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
 
 # Theme settings
 theme: just-the-docs
@@ -203,6 +231,6 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - tmp/
+  - script/
   - spec/
-  - docs/
   - node_modules/

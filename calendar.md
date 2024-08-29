@@ -1,29 +1,12 @@
 ---
 layout: page
 title: Calendar
-description: Listing of course modules and topics.
-nav_order: 1
+description: The weekly event schedule.
+nav_order: 2
 ---
 
-# Calendar
+# Weekly Schedule
 
-{% for module in site.modules %}
-{{ module }} 
+{% for calendar in site.calendars %}
+  {{ calendar }}
 {% endfor %}
-
-<!--{% for module in site.modules %}
-{{module.content[0]}}
-{% for row in module %}
-{{row}}
-{% for col in row %}
-
-{{ row }}
-END ROW
-{% endfor %}
-{% endfor %}
-{% endfor %}-->
-
-<style>
-    h195-reading {display: none;} 
-    .label.label-req {content: "EFWJHHJFEBH";}
-    </style>
