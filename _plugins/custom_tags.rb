@@ -199,10 +199,10 @@ module Jekyll
       current_date = Date.today
       # add leading 0 to number if less than 10
       num_index = @number.to_i < 10 ? "0#{@number}" : @number
-      if lecture['published']
-        return "**Lecture**{: .label .label-lec } #{lecture_title}"
+      if lecture['released']
+        return "**Lecture**{: .label .label-lec } [#{lecture_title}](lectures/#{num_index})"
       end
-      return "**Lecture**{: .label .label-lec } [#{lecture_title}](lectures/#{num_index})"
+      return "**Lecture**{: .label .label-lec } #{lecture_title}"
     end
     
   end
