@@ -1,7 +1,7 @@
 ---
-title: Week 1 Announcement
+title: Week 2 Announcement
 week: 1
-date: 2024-08-25
+date: 2024-09-02
 ---
 
 Welcome to CS 195! See the sidebar for navigation and more course information. Information about enrollment can be found in the syllabus.

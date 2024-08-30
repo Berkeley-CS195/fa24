@@ -58,18 +58,20 @@ In order to receive a passing grade in CS 195, you must complete the following:
 
 ## Lectures
 
-Lecture will be each {{ site.lecture_time }} in {{ site.lecture_room }}. Participation will be expected for all students.
+Lecture will be every **{{ site.lecture_time }} in {{ site.lecture_room }}**.
+Lecture is going to be a mix of presentations, students asking questions, group discussion, and class-wide debriefing.
 
-Lecture is going to be a mix of presentations, students asking questions, small group discussion, and class-wide debriefing. Participation will be expected.
+Participation in class is expected, and attendance will be taken.
+The lecture is the vast majority of the experience of the class, and therefore you cannot have a time conflict. There will *not* be after-the-fact recordings posted.
 
-Attendance will be taken in class and is required in-person.
-You cannot have a time conflict. The lecture is the vast majority of the
-experience of the class.
-There will *not* be after-the-fact recordings posted.
+This semester, CS195 will be taught **in-person**, by default. However, we understand that you may have public health concerns, commuting schedules, personal circumstances, etc. We therefore offer an [opt-in Zoom Lecture Form](https://docs.google.com/forms/d/e/1FAIpQLSdaiDVojWe8c9RrFlpF09CrqTMT_rj7IXO39lE1zDkiCRIWfw/viewform?usp=sf_link){: target="\_blank"} for students to request online attendance for most or all lectures. We ask that you submit this form as soon as you know your accommodation (ideally 24 hours before the next lecture) so we can respond to your request.
+
+Just like in-person students, Zoom students are expected to attend the majority of lecture. We will review Zoom attendance logs, and student not registered for the opt-in Zoom option will not receive credit.
+If you are mostly able to attend in person and need to miss a few lectures, in lieu of Zoom options we request that you use the provided lecture drops. See the Accommmodations section below for more details.
 
 ## Surveys
 
-There will be periodic required surveys throughout the semester, announced during class and on Ed. Please submit the survey on time by the date listed on the [homepage](/).
+There will be periodic required surveys throughout the semester, announced during class and on Ed. Please submit each survey on time by the date listed on the [homepage](/).
 
 ## Readings / QQCR
 
@@ -86,11 +88,13 @@ Please see the [QQCR Assignment]({{site.baseurl}}qqcr) page for more details.
 
 ## Podcasts
 
-In lieu of essays, you will submit two podcasts of varying format in relation to issues discussed in class. Please see the [home page](../) for more details.
+You will submit two short (~10-minute) podcasts related to issues discussed in class. Please see the [home page](../) for more details.
+
+Podcasts are to be completed in groups of 2-3 students. We will release a group registration/matching form with Podcast 1. If you do not have a group in mind, that is okay; we will use your responses to the group matching form to randomly assign your group.
 
 Podcasts are peer reviewed, which means you will review **two podcasts** per peer review window, and have each of your podcasts reviewed by two of your peers.
 
-We expect the podcasts to take up less time than formulating your thoughts on paper. Please do contact us if this is not the case.
+We expect the podcasts to take up less time than formulating your thoughts on paper---hence why we are not assigning essays. Please do contact us if this is not the case.
 
 ## Accommodations, Regrades, and Late Policy
 
@@ -103,17 +107,11 @@ by attending the H195 discussion section (discussion meeting times in sidebar).
 Note that sections often require prework, so please do make a private post on
 Ed in advance so we can provide you with details.
 
-**Surveys**: You are expected to complete all surveys by their listed deadlines on the [homepage](/). These will be reopened for completion as needed. To request a reopening, please make a private post on Ed.
+**Surveys**: You are expected to complete all surveys by their listed deadlines on the [homepage](/). These will be reopened for completion periodically, so please do not make a private post on Ed.
 
 **Readings/QQCR**: You must complete each QQCR set by the _**listed lecture date and time**_ for credit. While we will accept short additional extension requests made prior to each lecture deadline, we will not accept any submissions nor extension requests more than one week late. Use your drops.
 
-**Podcasts**: _**As of now there are no plans to offer makeup podcasts.**_ While we do
-not want this 1-unit seminar to stress you out, please also understand that
-because of our grading timelines, podcasts must be submitted by the posted
-deadline. If you anticipate needing additional extensions,
-please make a private Ed
-post as soon as possible or see the form below so we can provide a short extension or another
-accommodation. We will review each extension request on an individual basis.
+**Podcasts**: _**As of now there are no plans to offer makeup podcasts.**_ While we do not want this 1-unit seminar to stress you out, please also understand that because of our grading timelines, podcasts must be submitted by the posted deadline. If you anticipate needing additional extensions, please make a private Ed post as soon as possible or see the form below so we can provide a short extension or another accommodation. We will review each extension request on an individual basis.
 
 **DSP**: If you have a DSP-approved accommodation, we will contact you by the end of Week 2 with this semester's DSP policies.
 
