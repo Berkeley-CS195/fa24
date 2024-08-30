@@ -4,7 +4,7 @@ description: >-
     CS H195 QQC Journal
 ---
 
-## The QQC Journal
+# The QQC Journal
 
 **This assignment is only for CS H195 students.** For the CS 195 version of this assignment, see the [QQCR page]({{site.baseurl}}qqcr).
 
@@ -43,6 +43,6 @@ This document will be graded periodically throughout the semester by instructors
 
 **Regrade/Late policy**: Regrade windows will be opened twice during the semester (around Week 7 and during RRR week). During this period, you may review/update your QQC(s), but you must email the instructor of any specific resubmission(s) so they can regrade your work.
 
-### Acknowledgments
+## Acknowledgments
 
 QQC guidelines are adapted from Professor Kristen Stephens-Martinez at Duke University.
