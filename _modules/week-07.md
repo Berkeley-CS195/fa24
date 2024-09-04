@@ -5,5 +5,5 @@ Status: Active
 ---
 
 Tue 10/08
-: {% lec 6 %}
+: {% lec 7 %}
 : {% projDue 1 %} Peer Reviews 1 Due
