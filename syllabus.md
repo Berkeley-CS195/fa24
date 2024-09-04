@@ -51,9 +51,9 @@ In order to receive a passing grade in CS 195, you must complete the following:
 
 | Course Component | Overview |
 | --- | --- |
-| [Lectures](#lectures)     | Attend at least 10 out of 13 lectures (excludes Lecture 01) | 
+| [Lectures](#lectures)     | Attend at least 10 out of 13 lectures (starting Week 03) | 
 | [Surveys](#surveys) | Complete all course surveys (about 7 in the semester) |
-| [Readings / QQCR](#readings--qqcr)| Submit at leaset 10 of 13 QQCRs (excludes Lecture 01) |
+| [Readings / QQCR](#readings--qqcr)| Submit at least 10 of 13 QQCRs (starting Week 03) |
 | [Podcasts](#podcasts)  | Submit two Computing in the News podcasts that receive passing peer review grades. Also, provide 2 peer reviews for each podcast. |
 
 ## Lectures
@@ -84,7 +84,7 @@ You do not need to purchase any additional materials for this course. Some linke
 A QQCR, or a <i>Question, Quote, Comment, and Reply</i> is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
 
 To get credit each week, you must complete a **QQCR set**: make three posts on the associated Ed megathreads for that week, where one of the posts must be a reply.
-Please see the [QQCR Assignment]({{site.baseurl}}qqcr) page for more details.
+Please see the [QQCR Assignment]({{site.baseurl}}/qqcr) page for more details.
 
 ## Podcasts
 
