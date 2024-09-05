@@ -5,5 +5,5 @@ Status: Active
 ---
 
 Tue 11/05
-: **Election Day**{: .label} {% lec 10 %}
+: **Election Day**{: .label} {% lec 11 %}
 : {% proj 2%} Podcast 2 Released

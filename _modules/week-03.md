@@ -5,5 +5,5 @@ Status: Active
 ---
 
 Tue 09/10
-: {% lec 2 %}
+: {% lec 3 %}
 : {% proj 1%} Podcast 1 Released

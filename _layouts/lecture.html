@@ -73,11 +73,13 @@ nav_exclude: true
               {% endif %}
               {% if item.author %}
                 {{ item.author }}.
-              {% endif %}
-              {% if item.author %}
-                {{ item.author }}.
+              {% elsif item.publisher %}
+                {{ item.publisher }}.
               {% endif %}
               <a href="{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a>.
+              {% if item.publisher and item.author %}
+                {{ item.publisher }}.
+              {% endif %}
               {% if item.year %}
                 {{ item.year }}.
               {% endif %}
