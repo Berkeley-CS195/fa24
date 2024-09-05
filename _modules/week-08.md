@@ -5,4 +5,4 @@ Status: Active
 ---
 
 Tue 10/15
-: {% lec 7 %}
+: {% lec 8 %}

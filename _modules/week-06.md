@@ -5,5 +5,5 @@ Status: Active
 ---
 
 Tue 10/01
-: {% lec 5 %}
+: {% lec 6 %}
 : {% projDue 1 %} Podcast 1 Due
