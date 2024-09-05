@@ -30,6 +30,8 @@ baseurl: '/fa24' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
 url: 'https://cs195.org' # the hostname & protocol for your site, e.g. http://example.com
 
+future: true # build pages even if they don't exist
+
 # Course variables
 # Course variables can appear in various places around the website, if something isn't used leave it blank.
 # TODO(setup): Set all of these course variables

@@ -6,4 +6,4 @@ Status: Active
 
 Tue 08/27
 : (no class)
-  : {% survey 1 %}, Due Fri 9/6 11:59pm
+  : {% survey 2 %}, Due Fri 9/6 11:59pm
