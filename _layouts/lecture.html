@@ -60,7 +60,7 @@ nav_exclude: true
     <ul>
     {% if page.readings %}
       {% for item in page.readings %}
-        {% if item.name and item.link %}
+        {% if item.name %}
           {% unless item.is_h195 %}
             <li>
               {% if item.type == "required" %}
