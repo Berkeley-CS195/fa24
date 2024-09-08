@@ -24,8 +24,8 @@ Multiple QQCRs compose a **QQCR set**. One QQCR set is assigned per lecture.
 
 ## Grading
 * To receive satisfactory credit for a **QQCR set** for a given lecture, you must make **three QQCRs** total on any of the required readings, where one of your QQCRs needs to be a reply.
-  * In other words, you must make one Reply on someone else’s thread on one of the associated Ed megaposts in the reading set. In addition, you must also make four of Questions, Quotes, Comments, and/or Replies on the associated Ed megaposts in the reading set. Note that these five QQCRs do not need to be on the same reading.
-  * For example, a QQCR set could consist of a mix of three Questions on one reading, and two Reply on a different reading. Or, a QQCR set could consist of five Replies on the same reading.
+  * In other words, you must make one Reply on someone else’s thread on one of the associated Ed megaposts in the reading set. In addition, you must also make two of Questions, Quotes, Comments, and/or Replies on the associated Ed megaposts in the reading set. Note that these five QQCRs do not need to be on the same reading.
+  * For example, a QQCR set could consist of a mix of one Question on one reading, and two Replies on a different reading. Or, a QQCR set could consist of three Replies on the same reading.
   * You are responsible for completing all readings in the set, regardless of whether you make a QQCR on a given reading.
 * **You are expected to complete your QQCR sets prior to the corresponding lecture time.** This ensuers a rich discussion during class. If readings are assigned for Week 3, you should finish the three QQCRs for that set of readings prior to the start of lecture that week.
 * You only get credit for posting on the megathreads for required readings. Separate Ed posts nor posts about optional readings will not receive credit.
