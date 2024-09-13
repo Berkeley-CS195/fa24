@@ -32,7 +32,7 @@ podcast2:
 
 All due dates are {{ site.assignment_time }} PT on the day listed.
 
-|      | Podcast 1 | Podcast 2 |
+| Assignment Component | Podcast 1 | Podcast 2 |
 | --- | --- | --- |
 | Due: [Group matching form]({{ page.group_form }}){: target="\_blank"} | {{ page.podcast1["group_due"] | date: "%a %m/%d" }} | {{ page.podcast2["group_due"] | date: "%a %m/%d" }}|
 | Assigned: Groups | {{ page.podcast1["group_rel"] | date: "%a %m/%d" }} | {{ page.podcast2["group_rel"] | date: "%a %m/%d" }}|
