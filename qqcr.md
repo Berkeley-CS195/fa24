@@ -1,12 +1,12 @@
 ---
 layout: page
-title: QQCR Assignment
+title: Assignment - QQCR
 description: >-
     Question, Quote, Comment, and Reply Assignment.
 nav_order: 5
 ---
 
-# Question, Quote, Comment, and Reply (QQCR)
+# Question, Quote, Comment, and Reply (QQCR) Assignment
 
 **This assignment is only for CS 195 students.** For the CS H195 version of this assignment, see the [QQC Journal page]({{site.baseurl}}qqc-journal).
 

@@ -6,4 +6,4 @@ Status: Active
 
 Tue 10/08
 : {% lec 7 %}
-: {% projDue 1 %} Peer Reviews 1 Due
+: {% projDue 1 %} Podcast 1 Due

@@ -107,7 +107,7 @@ by attending the H195 discussion section (discussion meeting times in sidebar).
 Note that sections often require prework, so please do make a private post on
 Ed in advance so we can provide you with details.
 
-**Surveys**: You are expected to complete all surveys by their listed deadlines on the [homepage](/). These will be reopened for completion periodically, so please do not make a private post on Ed.
+**Surveys**: You are expected to complete all surveys by their listed deadlines on the [homepage]({{site.baseurl}}/). These will be reopened for completion periodically, so please do not make a private post on Ed.
 
 **Readings/QQCR**: You must complete each QQCR set by the _**listed lecture date and time**_ for credit. While we will accept short additional extension requests made prior to each lecture deadline, we will not accept any submissions nor extension requests more than one week late. Use your drops.
 
