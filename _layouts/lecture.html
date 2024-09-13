@@ -79,7 +79,14 @@ nav_exclude: true
               {% elsif item.publisher %}
                 {{ item.publisher }}.
               {% endif %}
-              <a href="{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a>.
+              {% if item.link %}
+                <a href="{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a>.
+              {% elsif true %}
+                {{ item.name }}.
+              {% endif %}
+              {% if item.misc %}
+                {{ item.misc }}.
+              {% endif %}
               {% if item.publisher and item.author %}
                 {{ item.publisher }}.
               {% endif %}
@@ -114,7 +121,14 @@ nav_exclude: true
               {% elsif item.publisher %}
                 {{ item.publisher }}.
               {% endif %}
-              <a href="{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a>.
+              {% if item.link %}
+                <a href="{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a>.
+              {% elsif true %}
+                {{ item.name }}.
+              {% endif %}
+              {% if item.misc %}
+                {{ item.misc }}.
+              {% endif %}
               {% if item.publisher and item.author %}
                 {{ item.publisher }}.
               {% endif %}
