@@ -84,14 +84,14 @@ nav_exclude: true
               {% elsif true %}
                 {{ item.name }}.
               {% endif %}
-              {% if item.misc %}
-                {{ item.misc }}.
-              {% endif %}
               {% if item.publisher and item.author %}
                 {{ item.publisher }}.
               {% endif %}
               {% if item.year %}
                 {{ item.year }}.
+              {% endif %}
+              {% if item.misc %}
+                {{ item.misc }}.
               {% endif %}
             </li>
           {% endunless %}
@@ -126,14 +126,14 @@ nav_exclude: true
               {% elsif true %}
                 {{ item.name }}.
               {% endif %}
-              {% if item.misc %}
-                {{ item.misc }}.
-              {% endif %}
               {% if item.publisher and item.author %}
                 {{ item.publisher }}.
               {% endif %}
               {% if item.year %}
                 {{ item.year }}.
+              {% endif %}
+              {% if item.misc %}
+                {{ item.misc }}.
               {% endif %}
             </li>
         {% endif %}
