@@ -4,6 +4,9 @@ description: >-
     CS H195 QQC Journal
 ---
 
+# UNDER CONSTRUCTION: 
+For current [rules on H195 QQCR submissions](https://edstem.org/us/courses/66531/discussion/5269602) see the Ed post linked while this webpage is worked on.
+
 # The QQC Journal
 
 **This assignment is only for CS H195 students.** For the CS 195 version of this assignment, see the [QQCR page]({{site.baseurl}}qqcr).
