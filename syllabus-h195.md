@@ -61,7 +61,7 @@ In order to receive a passing grade in CS H195, you must complete the following:
 | [Lectures]({{site.baseurl}}/syllabus#lectures)     | Attend at least 10 out of 13 CS 195 lectures (excludes Lecture 01) | 
 | Discussions | Attend all CS H195 discussions. |
 | [Surveys]({{site.baseurl}}/syllabus#surveys) | Complete all CS 195 course surveys (about 7 in the semester) |
-| [Readings / QQC](#readings--qqc)| Keep your QQC journal up-to-date |
+| [Readings / QQCR](#readings--qqc)| Keep your QQCRs up-to-date |
 | **H195 Projects** | Complete passing work on all CS H195 projects. |
 
 ## Assignments and Schedule
@@ -69,13 +69,13 @@ Note you do not complete CS 195 podcasts. Instead, CS H195 projects and deadline
 
 | Project | Released | Due |
 | ------- | -------- | --- |
-| [CS H195 QQC Journal]({{site.baseurl}}/qqc-journal) | -- | ongoing |
+| [CS H195 QQCRs]({{site.baseurl}}/qqc-journal) | -- | ongoing |
 | Teaching Computing in Society | Thu 10/03 | Thu 10/24 |
 | Teachnology and the Community | Thu 11/07 | Thu 12/05 |
 
 ### Readings / QQC 
 
-**Question, Quote, Comment** for CS H195 is different from QQC for CS 195. We have time for discussing the readings in section, so instead of posting on Ed you will jot down notes about your readings in a running QQC document to prepare for class discussion. See the [QQC journal page]({{site.baseurl}}/qqc-journal) for more details.
+**Question, Quote, Comment** for CS H195 is different from QQC for CS 195. We have time for discussing the readings in section, so instead of posting on Ed you will jot down notes about your readings in a running QQC document to prepare for class discussion. See the [H195 QQCRs page]({{site.baseurl}}/qqc-journal) for more details.
 
 CS H195 readings include both CS 195 readings *and* CS H195 readings. The former usually consists of articles; the latter is more often literature and research.
 We expect you complete CS 195 readings in time for the corresponding lecture and CS H195 readings in time for the corresponding section. These are listed on each lecture page when it exists.

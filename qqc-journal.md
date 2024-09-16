@@ -9,40 +9,57 @@ For current [rules on H195 QQCR submissions](https://edstem.org/us/courses/66531
 
 # H195 QQCRs
 
-**This assignment is only for CS H195 students.** For the CS 195 version of this assignment, see the [QQCR page]({{site.baseurl}}/qqcr).
+**This assignment is only for CS H195 students.** For the CS 195 version of this assignment, see the [195 QQCR page]({{site.baseurl}}/qqcr).
 
 Similar to CS 195 students, CS H195 students must do weekly QQCRs (Questions, Quotes, Comments, Replies) on Recommended and Required articles weekly. 
 
 ## QQCR Location
 
-To start, create and share a Google document with the instructors, and submit it via the bCourses assignment. This should be done during the first class.
+H195 QQCRs should be done in the H195 Specific Edstem, **not** in the General 195/H195 Edstem. This includes QQCRs for articles that are shared between 195 and H195. 
 
-* To make things easier here is a Google doc template. Clicking on [this link](https://docs.google.com/document/d/1hnrH7fPt_22b1v-fYKI6VQjNbjzsvmBBoxuAIW8VMdk/copy){: target="_blank"} will prompt you to make a copy of the Google doc. Be sure to make one such that it is shared with your UC Berkeley account.
-* Google doc name: “CS H195 QQC Doc: Given_name Surname” – replace Given_name Surname with your name such that it can be matched to your name in the gradebook.
+Generally, H195 students should not need to post on the 195/H195 Edstem, unless they have a question that pertains to both 195 and H195 students. We encourage you to ask H195-specific questions on the H195-specific Edstem to keep things better organized. 
 
-* Contents for each class:
-  * Header for each class date with format "Heading 1" so it appears in the document outline.
-  * Contents for each reading due by this Discussion date:
-    * Citation – Must contain title, author, and year
-    * Link to the reading (optional, if useful to you).
-    * Your three QQCs about the reading. See below for details.
-  * Additional journal entries, if any, for the week. Title the journal entry with format "Heading 2". For example, in the first class you will title it "Goals".
+## QQCR
+QQCR stands for Question, Quote, Comment, or Reply. The QQCR assignment is a short weekly assignment to help you reflect on the readings and contribute to the upcoming class discussion.
 
-## QQC
-QQC stands for Question, Quote, or Comment. The QQC assignment is a short weekly assignment to help you reflect on the readings and contribute to the upcoming class discussion.
+### Before lecture each week
+Post at least one QQCR on each Recommended or Required 195 Reading in the H195 Ed.
 
-**Before class each week**, make a new entry in your QQC Journal. This involves submitting one Quote from the reading and two QQCs per assigned reading. A QQC can be a question about the reading, a quote from the reading, or a comment/reaction to a particular part of the reading. For the assignment itself, you do not need to submit one of each in the submission—as long as one of your three is a quote, you can use any mix.
+### Before discussion each week
+Post at least one QQCR on each Recommended or Required H195 Reading in the H195 Ed.
 
 ## Grading
-To receive full credit:
-* Within the first class meeting, the document exists and is shared with instructors; the document also is submitted through bCourses.
-* Format is such that there is a "Heading 1" for each class.
-* Three QQCs exist for each reading, where at least one is a quote. Graded on completion.
-* All additional journal entries exist as a "Header 2" under the corresponding class. Graded on completion.
+### To receive full credit for a given week:
+* You have posted at least one QQCR for each Recommended/Required reading for the week in the H195 Ed
+* 195 QQCRs are done by the time of 195 lecture
+* H195 QQCRs are done by the time of 195 discussion
+* The total number of your QQCRs meets or exceeds seven
+* Your QQCRs show effort and thought
+* Your QQCRs are at least five sentences each
+### To receive full credit for the semester:
+* You have completed 10 of the 13 QQCRs
 
-This document will be graded periodically throughout the semester by instructors.
+Your QQCRs will be graded periodically throughout the semester by instructors.
 
-**Regrade/Late policy**: Regrade windows will be opened twice during the semester (around Week 7 and during RRR week). During this period, you may review/update your QQCR(s), but you must email the instructor of any specific resubmission(s) so they can regrade your work.
+## Anonymity
+
+QQCRs do not need to be public. You can remain anonymous if you have something potentially controversial or personal to say. If anonymity will help you say something you otherwise wouldn't, please do not hesitate to use it. We want for this class to be an opportunity for you to engage critically with the material. Please note that TAs and the professor can still see your identity. 
+
+## Regrade/Late policy
+
+You have 3 drops on the QQCR assignment. Please use these before asking for extensions or regrades.
+
+Regrade windows will be opened twice during the semester (around Week 7 and during RRR week). During this period, you may review/update your QQCR(s), but you must email the instructor of any specific resubmission(s) so they can regrade your work.
+
+## Respect and Community
+
+Please be respectful and professional to your peers and generally. Hatred or unnecessary commentary on others will not be tolerated.
+
+## Large Language Model Usage
+
+We assume you are in H195 because you are personally interested in the class. We want for commentary you make about articles to be your own, from your own reading and interpretation of the article. We find that LLM usage generally results in posts that appear to be low-effort or uninspired. If we find your post to fit this criteria, we may ask you to rewrite it. 
+
+If you feel like you are in a position where you must use AI aid to get through the class please come speak to us. We trust you are in this class with good interests. We want to help you and don't want you to be in a position in which you feel like you have to be dishonest to succeed. We may be able to excuse you from parts of the assignment or find alternative accommodation for you to be able to feel comfortable doing the class work on your own. 
 
 ## Acknowledgments
 
