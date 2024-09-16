@@ -4,6 +4,6 @@ role: Teaching Assistant
 email: noemi.chulo@berkeley.edu
 website:
 photo: staff/noemi.png
-pronouns: 
+pronouns: any
 team: Head TA
 ---
