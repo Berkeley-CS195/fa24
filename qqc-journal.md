@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Assignment - H195 QQCR
 description: >-
     CS H195 QQCRs
 navorder: 6
