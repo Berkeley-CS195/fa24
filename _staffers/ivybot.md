@@ -1,6 +1,6 @@
 ---
 name: Ivybot
-role: Bot
+role: Edstem Bot
 email: cs195@berkeley.edu
 website:
 photo: staff/ivybot.png
