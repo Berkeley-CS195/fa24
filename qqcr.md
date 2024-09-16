@@ -8,7 +8,7 @@ nav_order: 5
 
 # Question, Quote, Comment, and Reply (QQCR) Assignment
 
-**This assignment is only for CS 195 students.** For the CS H195 version of this assignment, see the [QQC Journal page]({{site.baseurl}}qqc-journal).
+**This assignment is only for CS 195 students.** For the CS H195 version of this assignment, see the [QQC Journal page]({{site.baseurl}}/qqc-journal).
 
 ## Assignment Description
 **QQCR**, or Question, Quote, Comment, and Reply, is a short weekly assignment on the readings to help you reflect on the readings and contribute to an ongoing class discussion.

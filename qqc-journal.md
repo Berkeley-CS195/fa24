@@ -9,7 +9,7 @@ For current [rules on H195 QQCR submissions](https://edstem.org/us/courses/66531
 
 # H195 QQCRs
 
-**This assignment is only for CS H195 students.** For the CS 195 version of this assignment, see the [QQCR page]({{site.baseurl}}qqcr).
+**This assignment is only for CS H195 students.** For the CS 195 version of this assignment, see the [QQCR page]({{site.baseurl}}/qqcr).
 
 Similar to CS 195 students, CS H195 students must do weekly QQCRs (Questions, Quotes, Comments, Replies) on Recommended and Required articles weekly. 
 
