@@ -2,7 +2,7 @@
 layout: page
 title: Assignment - Podcast
 has_toc: true
-nav_order: 6
+nav_order: 7
 group_form: https://docs.google.com/forms/d/e/1FAIpQLSfPYCl5PC0KYpfdCMnIYqa-4mOYwPQa2k2AE431V6KLQp2bkw/viewform?usp=sf_link
 podcast1:
   group_due:  2024-09-17

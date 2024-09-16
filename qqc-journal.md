@@ -2,6 +2,7 @@
 layout: page
 description: >-
     CS H195 QQCRs
+navorder: 6
 ---
 
 # UNDER CONSTRUCTION: 
