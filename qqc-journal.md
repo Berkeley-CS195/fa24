@@ -1,21 +1,19 @@
 ---
 layout: page
 description: >-
-    CS H195 QQC Journal
+    CS H195 QQCRs
 ---
 
 # UNDER CONSTRUCTION: 
 For current [rules on H195 QQCR submissions](https://edstem.org/us/courses/66531/discussion/5269602) see the Ed post linked while this webpage is worked on.
 
-# The QQC Journal
+# H195 QQCRs
 
 **This assignment is only for CS H195 students.** For the CS 195 version of this assignment, see the [QQCR page]({{site.baseurl}}qqcr).
 
-The Question, Quote, and Comment Journal, or **QQC Journal**, is a Google document shared with the instructors of the class and will serve as a bibliography and notes for the readings. It will also include any additional journal entries that are required for the course.
+Similar to CS 195 students, CS H195 students must do weekly QQCRs (Questions, Quotes, Comments, Replies) on Recommended and Required articles weekly. 
 
-In the real world, no one actually checks your notes to hold you to some standard. The only person that might ever care is the future you that has to go back and use those notes. However, the intention behind this exercise is to provide structure and help you practice reasonable organization and note-taking skills with course staff to hold you accountable.
-
-## Document Format
+## QQCR Location
 
 To start, create and share a Google document with the instructors, and submit it via the bCourses assignment. This should be done during the first class.
 
@@ -44,8 +42,8 @@ To receive full credit:
 
 This document will be graded periodically throughout the semester by instructors.
 
-**Regrade/Late policy**: Regrade windows will be opened twice during the semester (around Week 7 and during RRR week). During this period, you may review/update your QQC(s), but you must email the instructor of any specific resubmission(s) so they can regrade your work.
+**Regrade/Late policy**: Regrade windows will be opened twice during the semester (around Week 7 and during RRR week). During this period, you may review/update your QQCR(s), but you must email the instructor of any specific resubmission(s) so they can regrade your work.
 
 ## Acknowledgments
 
-QQC guidelines are adapted from Professor Kristen Stephens-Martinez at Duke University.
+QQCR guidelines are adapted from Professor Kristen Stephens-Martinez at Duke University.
