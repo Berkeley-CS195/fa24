@@ -33,3 +33,19 @@ nav_order: 8
 </div>
 
 {% endif %}
+
+{% assign bots = site.staffers | where: 'role', 'Bot' %}
+{% assign num_bots = bots | size %}
+
+{% if num_bots != 0 %}
+
+## Bot
+
+<div class="role flex">
+
+{% for staffer in bots %}
+{{ staffer }}
+{% endfor %}
+</div>
+
+{% endif %}
