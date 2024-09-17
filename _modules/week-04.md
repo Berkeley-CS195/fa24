@@ -6,3 +6,4 @@ Status: Active
 
 Tue 09/17
 : {% lec 4 %}
+  : {% survey 4 %}, Optional
