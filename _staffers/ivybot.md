@@ -1,9 +1,9 @@
 ---
 name: Ivybot
-role: Edstem Bot
+role: Bot
 email: cs195@berkeley.edu
 website:
 photo: staff/ivybot.png
 pronouns: she/her
-team: Bot
+team: Edstem Bot
 ---
