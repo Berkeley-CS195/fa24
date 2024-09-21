@@ -30,7 +30,7 @@ Multiple QQCRs compose a **QQCR set**. One QQCR set is assigned per lecture.
 * **You are expected to complete your QQCR sets prior to the corresponding lecture time.** This ensuers a rich discussion during class. If readings are assigned for Week 3, you should finish the three QQCRs for that set of readings prior to the start of lecture that week.
 * You only get credit for posting on the megathreads for required readings. Separate Ed posts nor posts about optional readings will not receive credit.
 * One-word posts will not receive credit. Most other posts longer than 50 characters will.
-* You are permitted up to **3 QQCR set drops** this semester. That means that if you satisfactorily submit at least 9 of 13 sets of QQCRs, you will pass this course component. Lecture 1 does not have a QQCR set.
+* You are permitted up to **3 QQCR set drops** this semester. That means that if you satisfactorily submit at least 10 of 13 sets of QQCRs, you will pass this course component. Lecture 1 does not have a QQCR set.
 
 <!--* It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).-->
 <!--* You do not get credit for posting about optional readings.-->
