@@ -73,6 +73,11 @@ If you are mostly able to attend in person and need to miss a few lectures, in l
 
 There will be periodic required surveys throughout the semester, announced during class and on Ed. Please submit each survey on time by the date listed on the [homepage](/).
 
+Required surveys (updated throughout the semester):
+* Week 1/2 Welcome Survey
+* Group matching for Podcast 1
+* Week 5 Survey
+
 ## Readings / QQCR
 
 ### Readings

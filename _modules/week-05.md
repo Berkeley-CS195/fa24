@@ -6,3 +6,4 @@ Status: Active
 
 Tue 09/24
 : {% lec 5 %}
+  : {% survey 5 %}, Due Tue 10/1 11:59pm
