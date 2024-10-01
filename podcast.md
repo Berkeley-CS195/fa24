@@ -79,9 +79,6 @@ As part of the grading process for this course, each person will anonymously sub
 
 (1) Submit the grading rubric for the peer submission.
 
-<!-- See this [Canvas post](https://community.canvaslms.com/t5/Student-Guide/How-do-I-submit-a-peer-review-to-an-assignment/ta-p/293) for guidance.
--->
-
 (2) Post a text comment on the peer submission.
 
   * Post a question, quote and discuss, or comment on your classmates’ podcast. See the QQCR guidelines.
@@ -101,10 +98,11 @@ A passing grade on a podcast is such that all rubric categories are marked “Sa
 | Uploaded file is a text file (.vtt, .txt, PDF, word doc, etc.) or an audio file that contains the group conversation. | Satisfactory | File is a video file / File is not the conversation file. |
 | Conversation topic is pertinent to one (or more) of the specified lectures. | Satisfactory | Conversation is not pertinent to class. |
 | The conversation cites or discusses the uploaded piece of media (news article, tweet, video from Tiktok/YouTube/etc., academic paper) in a relevant manner. | Satisfactory | Conversation neither cites nor discusses a new piece of media outside of class resources. |
+| The topic and media citation are stated at the beginning of the podcast, or clearly enough at some point in the conversation. | Satisfactory | Unclear/unsatisfactory |
 | Conversation does not have particularly long pauses (e.g., longer than 15 seconds) and is within the time limit. | Satisfactory | Conversation includes an extra-long pause / contains so many pauses such that it cannot be considered satisfying the 7-10 minute requirement / Time limit is 7-10 minutes or thereabouts. |
 | Conversation feels relatively balanced, i.e., it flows back and forth. | Satisfactory | One person is dominating the speaking time / One person takes the first half, then the other person takes the second half (or split three-wise). |
 
-Instructional staff will spot-review some podcasts and will explicitly re-review any submissions that do not achieve “Satisfactory” in all rubric items.
+Instructional staff will spot-review some podcasts and will explicitly re-review any submissions that do not achieve “Satisfactory” in all rubric items. We encourage you to grade honestly so that we can give groups appropriate feedback on future submissions.
 
 ## Submission
 
@@ -113,18 +111,21 @@ Instructional staff will spot-review some podcasts and will explicitly re-review
 Submit your podcast via bCourses.
 
 * Only one person from each group will need to submit to bCourses.
+  * \[ updated 9/30 \] **Podcast 1**: [Assignment Portal](https://bcourses.berkeley.edu/courses/1538786/assignments/8817136){:target="\_blank"}; [Group assignments](https://bcourses.berkeley.edu/courses/1538786/groups#tab-85716){: target="\_blank"}. We will only resolve import errors, not last-minute group switches.
 * **You must announce your topic and the media you are citing at the beginning of your podcast.** This will greatly facilitate peer and staff grading.
-* **File renaming**: Remember that peer reviewers will view your filename when they download; please rename your file if you would like to prefer anonymity. We suggest using a short-form version of your email hash, since you have already computed it.
-* **Transcript submissions**: If you prefer to submit a text transcript of your conversation for peer grading; details on how to use Zoom recordings for auto-transcript are at the bottom of the assignment page. Please note that you will need to ALSO submit the audio file to the [Optional] bCourses assignment, viewable to instructors only. That bCourses link is also at the top of this page.
+* **Check your filenames**: Remember that peer reviewers can see your filename. Please rename your file if you would prefer anonymity. 
+* **Alternate transcript submissions**: If you prefer to submit a text transcript of your conversation for peer grading; details on how to use Zoom recordings for auto-transcript are at the bottom of the assignment page. Please note that you will need to ALSO email the audio file to our course staff email at [{{ site.course_email }}](mailto:{{ site.course_email }}) **before** the assignment deadline.
 * Extensions: We only accept short extension requests, made **12 hours** before the submission deadline. Please read our full extension policy on the [syllabus](syllabus) page. 
-
-More details TBD.
+* Media sharing: While you are not required to read out any URL as part of your conversation, we recommend putting your media link through a URL shortener (e.g., TinyURL) and reading that out. That will help peer reviewers more easily access the media piece for quicker review.
 
 ### Peer Review Submission
 
-Submit your peer review via bCourses. 
+Submit **all** assigned peer reviews via the bCourses assignment portal.
 
-More details TBD.
+1.  Fill out the grading rubric for the submission.
+1.  Add your comment directly to the submission.
+
+See [this Canvas post](https://community.canvaslms.com/t5/Student-Guide/How-do-I-submit-a-peer-review-to-an-assignment/ta-p/293) for guidance on how to submit peer reviews.
 
 ## Audio Resources
 
