@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignment - 195 QQCR
+title: CS 195 QQCR Assignment
 description: >-
     Question, Quote, Comment, and Reply Assignment.
 nav_order: 5

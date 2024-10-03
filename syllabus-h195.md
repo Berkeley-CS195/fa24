@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CS H195
+title: CS H195 Syllabus
 description: >-
     CS H195 Course policies and information.
-nav_order: 4
+nav_order: 10
 ---
 
 # CS H195 Syllabus and Assignments
@@ -67,11 +67,9 @@ In order to receive a passing grade in CS H195, you must complete the following:
 ## Assignments and Schedule
 Note you do not complete CS 195 podcasts. Instead, CS H195 projects and deadlines are listed here:
 
-| Project | Released | Due |
-| ------- | -------- | --- |
-| [CS H195 QQCRs]({{site.baseurl}}/qqc-journal) | -- | ongoing |
-| Teaching Computing in Society | Thu 10/03 | Thu 10/24 |
-| Teachnology and the Community | Thu 11/07 | Thu 12/05 |
+{% include h195-assignments.md %}
+
+These are also located on the sidebar, [H195 Assignments]({{ site.baseurl }}/h195-assignments).
 
 ### Readings / QQC 
 

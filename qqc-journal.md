@@ -3,7 +3,7 @@ layout: page
 title: Assignment - H195 QQCR
 description: >-
     CS H195 QQCRs
-navorder: 6
+nav_exclude: true
 ---
 
 # H195 QQCRs
