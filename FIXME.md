@@ -4,6 +4,9 @@
   - "All of these would receive full points for the first two. " this true?
   - "The [H195 Calendar](discussion) has the discussion schedule and syllabus." fix once page set
     - fix link
+  - "* We reserve the right to give you a zero on a QQCR, or remove your grade for it if we deem your post to be egregiously low-effort. We will inform you and likely allow you to redo this QQCR if this occurs." check
+  - fix community guidelines
+  - add [Extension/Regrade Request form {to be added}]()
 - _config.yml
   - URL for site
   - add gradescope_course_id, bcourses_course_id, ed_course_id 
