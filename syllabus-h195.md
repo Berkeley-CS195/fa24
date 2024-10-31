@@ -58,7 +58,7 @@ In order to receive a passing grade in CS H195, you must complete the following:
 
 | Course Component | Overview |
 | --- | --- |
-| [Lectures]({{site.baseurl}}/syllabus#lectures)     | Attend at least 10 out of 13 CS 195 lectures (excludes Lecture 01) | 
+| [Lectures]({{site.baseurl}}/syllabus#lectures)     | [updated 10/31] Attend at least <del>10</del> **9** out of 13 CS 195 lectures (starting Week 03) |
 | Discussions | Attend all CS H195 discussions. |
 | [Surveys]({{site.baseurl}}/syllabus#surveys) | Complete all CS 195 course surveys (about 7 in the semester) |
 | [Readings / QQCR](#readings--qqc)| Keep your QQCRs up-to-date |
