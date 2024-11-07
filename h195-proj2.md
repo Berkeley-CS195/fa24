@@ -7,7 +7,7 @@ dates:
   release: 2024-11-07
   checkpoint1: 2024-11-14
   checkpoint2: 2024-11-28
-  due: 2024-12-06
+  due: 2024-12-05
 ---
 
 <cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>
