@@ -95,7 +95,7 @@ Have a quick 5-10 minute meeting with one of the TAs about the progress of your 
 
 This is for us to make sure you are on track and to see if we can provide you with guidance. 
 
-## 3. Presentation
+## Presentation
 
 Target between 7-10 minutes (will changed based on the amount of groups vs. individuals), and cover the following:
 
