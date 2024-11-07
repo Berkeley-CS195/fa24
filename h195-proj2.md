@@ -4,10 +4,10 @@ is_h195: true
 nav_exclude: true
 released: true
 dates:
-  release: 2024-11-06
-  checkpoint1: 2024-11-13
-  checkpoint2: 2024-11-27
-  due: 2024-12-05
+  release: 2024-11-07
+  checkpoint1: 2024-11-14
+  checkpoint2: 2024-11-28
+  due: 2024-12-06
 ---
 
 <cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>
@@ -95,7 +95,7 @@ Have a quick 5-10 minute meeting with one of the TAs about the progress of your 
 
 This is for us to make sure you are on track and to see if we can provide you with guidance. 
 
-## 3. Presentation
+## Presentation
 
 Target between 7-10 minutes (will changed based on the amount of groups vs. individuals), and cover the following:
 
