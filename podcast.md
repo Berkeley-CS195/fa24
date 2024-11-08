@@ -11,8 +11,8 @@ podcast1:
   peer_rel:   2024-10-11
   peer_due:   2024-10-18
 podcast2:
-  group_due:  TBD
-  group_rel:  TBD
+  group_due:  N/A
+  group_rel:  2024-11-8
   due:        2024-11-19
   peer_rel:   2024-11-22
   peer_due:   2024-12-03
@@ -55,13 +55,29 @@ The goal of this assignment is a conversation between classmates. You do not nee
 ### Project Group Formation
 
 Groups are 2-3 students total (that is, you and 1-2 other students).
-* **Podcast 1**: Submit the [CS 195 Group Matching Google Form]({{ page.group_form }}){: target="\_blank"}
+
+#### **Podcast 1**:
+Submit the [CS 195 Group Matching Google Form]({{ page.group_form }}){: target="\_blank"}
 to register your group and/or provide preferences for random group assignment.
-  * If you have a group in mind, please provide their emails through this sheet. If you do not have a group in mind, please submit this form and we will try to assign you to a group that matches your group work preferences.
-  * Please submit the above form on time. The form counts as one of the required surveys in this course.
-  * If you do not submit the form on time, you will be randomly assigned a group.
-  * After the form closes, we will email each group and include student contact emails. Please let us know if you do not receive your group assignment within a week of filling out the form.
-* **Podcast 2**: You will have an option to switch groups. Details TBD.
+* If you have a group in mind, please provide their emails through this sheet. If you do not have a group in mind, please submit this form and we will try to assign you to a group that matches your group work preferences.
+* Please submit the above form on time. The form counts as one of the required surveys in this course.
+* If you do not submit the form on time, you will be randomly assigned a group.
+* After the form closes, we will email each group and include student contact emails. Please let us know if you do not receive your group assignment within a week of filling out the form.
+  
+#### **Podcast 2**: 
+We assume your groups will be the same from last Podcast, but if you want to switch you may email cs195@berkeley.edu by 11/12 at 11:59pm with your request for a group change. 
+
+People whose partners have dropped or had other extenuating circumstances have been informed of their new groups. 
+
+If you would still like a group change, we prefer that you inform everyone involved prior to requesting the change so both new groups formed will have time to make plans to work together. Here are some things that we'd like from your email if you request a partner change and you know who you want to work with:
+* CC your requested new partner(s) on the email
+* Your name and the name(s) and email(s) of your new partner(s)
+* The names and emails of your and your requested new partner(s)' old partners
+* \[Optional\] Reasoning for the change
+
+If you would just like to have a different partner or work alone and you don't have anyone in mind we can accommodate. If you request a partner change and don't have anyone in mind, there is a chance that you will have to work alone. Please send us:
+* Your name and the name(s) and email(s) of your old partner(s)
+* \[Optional\] Reasoning for the change
 
 ### Topic Choice and Required Media
 
