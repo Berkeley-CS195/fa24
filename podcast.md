@@ -65,7 +65,7 @@ to register your group and/or provide preferences for random group assignment.
 * After the form closes, we will email each group and include student contact emails. Please let us know if you do not receive your group assignment within a week of filling out the form.
   
 #### **Podcast 2**: 
-We assume your groups will be the same from last Podcast, but if you want to switch you may email cs195@berkeley.edu by 11/12 at 11:59pm with your request for a group change. 
+We assume your groups will be the same from last podcast, but if you want to switch you may email cs195@berkeley.edu by 11/12 at 11:59pm with your request for a group change. 
 
 People whose partners have dropped or had other extenuating circumstances have been informed of their new groups. 
 
