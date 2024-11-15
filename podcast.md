@@ -83,7 +83,7 @@ If you would just like to have a different partner or work alone and you don't h
 
 Topic choices:
 * **Podcast 1**: From Week 02: Free Speech up to and including Week 07: Government Surveillance. You must pick a topic related to what we will have covered in lecture.
-* **Podcast 2**: From Week 08: Generative AI up to and including Week 13: Memes, Misinformation, and Information Literacy. Or, you can choose your own topic, so long as it is related to the themes of this class.
+* **Podcast 2**: From Week 08: Generative AI up to and including Week 15: Tech and Labor II and Closing. Or, you can choose your own topic, so long as it is related to the themes of this class.
 
 As part of your discussion, **cite or discuss one external news article, tweet, video from Tiktok/YouTube/etc., academic paper, or other relevant form of media that is outside of the ones discussed or shared in class.** You can include multiple of these if that’s what you want to talk about, but just one is required for submission.
 
