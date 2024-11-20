@@ -36,7 +36,7 @@ Post at least one QQCR on each Recommended or Required H195 Reading in the H195 
 * Your QQCRs show effort and thought
 * Your QQCRs are at least five sentences each
 ### To receive full credit for the semester:
-* You have completed 10 of the 13 QQCRs
+* You have completed 9 of the 12 QQCRs
 
 Your QQCRs will be graded periodically throughout the semester by instructors.
 
